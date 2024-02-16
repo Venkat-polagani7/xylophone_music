@@ -22,6 +22,8 @@ class MyApp extends StatelessWidget {
  under the children i have called the buildWidget(colors.color, noteNum) for 7 times for 7 different buttons-different
  sound
 
+ Test for the git
+
   */
   Expanded buildWidget(Color color, int noteNum){
     return Expanded(
